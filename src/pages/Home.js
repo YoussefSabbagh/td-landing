@@ -16,7 +16,7 @@ const Home = () => {
         bgClr={'var(--orangeClr)'}
       />
       <Services id="service" />
-      <Projects id="project" />
+      {/* <Projects id="project" /> */}
       <Contact id="contact" />
     </div>
   );

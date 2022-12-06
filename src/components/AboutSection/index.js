@@ -23,9 +23,9 @@ const AboutSection = ({ id, title, classes, bgClr = '#ff00ff' }) => {
           <AboutTitle>Acerca de Nosotros</AboutTitle>
           <p>
             En Taguara Digital nos especializamos en el diseño y desarrollo de
-            identidad de marca y soluciones digitales a la medida. Ayudamos a
-            nuestros clientes desde la definición de sus estrategias hasta la
-            realización de su ecosistema digital.
+            soluciones digitales a la medida. Ayudamos a nuestros clientes desde
+            la definición de sus estrategias hasta la realización de su
+            ecosistema digital.
           </p>
 
           <p>
@@ -35,7 +35,7 @@ const AboutSection = ({ id, title, classes, bgClr = '#ff00ff' }) => {
             objetivos de comunicación de nuestros clientes.
           </p>
 
-          <AboutSubtitle>Creatividad, Eso nos define</AboutSubtitle>
+          <AboutSubtitle>Creatividad, eso nos define</AboutSubtitle>
 
           <p>
             Cada proyecto que emprendemos está hecho a medida y siguiendo las

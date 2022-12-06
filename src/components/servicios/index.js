@@ -33,7 +33,7 @@ const Services = ({ id, title, classes, bgClr = '#ff00ff' }) => {
         })}
       </ServicesGridProcess>
 
-      <ServicesGridServices>
+      {/* <ServicesGridServices>
         <ServicesTitle> Esto son algunos de los servicios</ServicesTitle>
 
         <ServicesContainer>
@@ -54,7 +54,7 @@ const Services = ({ id, title, classes, bgClr = '#ff00ff' }) => {
             })}
           </ServicesCards>
         </ServicesContainer>
-      </ServicesGridServices>
+      </ServicesGridServices> */}
     </ServicesSection>
   );
 };
